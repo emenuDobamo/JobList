@@ -1,0 +1,17 @@
+.job-list h2 {
+  margin: 2rem;
+  margin-bottom: 2rem;
+  display: inline;
+}
+
+.job-list {
+  margin: 2rem;
+  margin-left: 10rem;
+}
+.job-sort {
+  background-color: rgb(116, 20, 20);
+  width: 50px;
+  height: 20px;
+  border-radius: 10px;
+  position: fixed;
+}

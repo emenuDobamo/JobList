@@ -1,0 +1,25 @@
+.duration-card {
+  padding: 1rem;
+  display: inline-flex;
+  height: 50px;
+  position: relative;
+}
+.duration-text {
+  padding: 0;
+}
+
+.duration-text p {
+  font-size: small;
+  opacity: 0.4;
+  margin: 1px;
+  font-weight: 600;
+}
+
+.duration-value {
+  font-size: small;
+  font-weight: 600;
+}
+
+.duration-icon {
+  padding: 0.5rem;
+}

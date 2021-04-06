@@ -1,0 +1,35 @@
+.sidenav {
+  background: rgb(255, 255, 255);
+  width: 150px;
+  height: 32rem;
+  float: left;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  display: block;
+  padding: 3rem;
+ 
+}
+
+.sidenav-logo {
+  margin-bottom: 3rem;
+}
+
+.sidenav-homeicon {
+  width: 25px;
+  height: 26px;
+  top: 216px;
+  display: inline;
+}
+
+.sidenav-homeicon:hover {
+  width: 25px;
+  height: 26px;
+  top: 216px;
+  fill: blue;
+}
+
+.sidenav-homeicon h5 {
+  opacity: 0.5;
+  display: inline;
+  margin: 1rem;
+}

@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  background-color: #f6f8fa;
+  margin: 2rem;
+  border-radius: 1rem;
+  opacity: 0.8;
+  display: block;
+  float: left;
+}
+.github-profile {
+}
+.info {
+  display: inline-block;
+}
+body {
+  background-color: rgb(207, 230, 248);
+}

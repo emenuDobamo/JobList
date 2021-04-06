@@ -1,0 +1,9 @@
+.highlight-card {
+  background-color: rgb(255, 255, 255);
+  height: 150px;
+  width: 150px;
+  margin: 1rem;
+  border-radius: 1rem;
+  position: absolute;
+  padding: 1rem;
+}
