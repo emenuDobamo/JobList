@@ -5,6 +5,7 @@ import { ReactComponent as CircleDollarSign } from "../../Images/CircleDollarSig
 class AmountComponent extends Component {
   render() {
     const job = this.props;
+ 
     return (
       <div className="Amount-card">
         <div className="Amount-icon">
